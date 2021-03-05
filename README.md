@@ -8,6 +8,10 @@ update @ 2021/03/05
 
 2. by connect PWM pin and covert with external RC circuit for DC voltage , below is waveform capture
 
+up : DC result (convert by RC circuit)
+
+down : MCU PWM 
+
 ![image](https://github.com/released/ML51_PWM_SINE/blob/main/PWM_with_RC.jpg)
 
 
